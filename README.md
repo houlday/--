@@ -1,4 +1,4 @@
-# --
+# discordbot
 와우봇 설치 하는방법입니다.
 
 1. python 이랑 pycharm 을 설치해주세요
